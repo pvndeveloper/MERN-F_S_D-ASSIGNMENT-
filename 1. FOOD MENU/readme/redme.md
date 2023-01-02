@@ -1,0 +1,1 @@
+<img src="/1. FOOD MENU/Images/Assignment1.JPG" alt="Assignment1 Image">
